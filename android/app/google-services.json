@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22171655041",
+    "project_id": "metahub-d36f4",
+    "storage_bucket": "metahub-d36f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22171655041:android:fddefcfb49aa3ff758e680",
+        "android_client_info": {
+          "package_name": "com.metahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6Y6yy1tFiIVeughBZQaL_9P20X4X1r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
